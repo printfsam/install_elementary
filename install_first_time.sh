@@ -7,4 +7,6 @@ snap install spotify
 snap install slack --classic
 add-apt-repository ppa:philip.scott/elementary-tweaks && apt-get update
 apt-get install elementary-tweaks
-
+add-apt-repository ppa:nathan-renniewaldock/flux
+apt-get update
+apt-get install fluxgui
