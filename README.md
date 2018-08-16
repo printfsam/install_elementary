@@ -1,6 +1,7 @@
 All that stuff I download on a fresh elementary OS build, mostly right after briking linux. This time it was python3-software-common.
 install script and occasional volumn fix
-Elementary OS version 0.4.1 Loki (64 bit)
+Elementary OS version 0.4.1 Loki (64 bit) based on Ubuntu 16.04.5 LTS 
+Kernal: Linux 4.13.0-32-generic
 
 git setup:
 ssh-keygen -t rsa -b 4096 -C "email"
